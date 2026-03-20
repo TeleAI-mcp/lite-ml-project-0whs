@@ -1,2 +1,3 @@
-# lite-ml-project-0whs
-Automated issue comment bot repository
+# Lite Ml Project 0Whs
+
+Automated issue comment bot repository.
